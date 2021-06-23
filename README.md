@@ -1,4 +1,11 @@
+mohritaroh/README.md
+
 ### Hi there 👋
+
+毛利勝久（もうり・かつひさ）
+
+* 編集者
+* 株式会社はてな所属
 
 <!--
 **mohritaroh/mohritaroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
